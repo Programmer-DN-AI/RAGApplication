@@ -1,16 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "HyuT8jQTpiY=",
+  "dgSpecHash": "aO1PKE7SYEI=",
   "success": true,
   "projectFilePath": "E:\\RAG AI App on Azure\\RAGApplication\\RAG.API\\RAG.API\\RAG.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dulmi\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\azure.search.documents\\11.6.1\\azure.search.documents.11.6.1.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\azure.storage.blobs\\12.25.0\\azure.storage.blobs.12.25.0.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\azure.storage.common\\12.24.0\\azure.storage.common.12.24.0.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\openai\\2.1.0\\openai.2.1.0.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\dulmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\dulmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "C:\\Users\\dulmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\system.clientmodel\\1.4.2\\system.clientmodel.1.4.2.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\system.memory.data\\6.0.1\\system.memory.data.6.0.1.nupkg.sha512",
+    "C:\\Users\\dulmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

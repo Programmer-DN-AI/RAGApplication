@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAG.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+061583df21014f1da77a0df1b9071129ebd40812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28faab8663270166ac4e7ea9d2112c4737e94eca")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAG.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAG.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
