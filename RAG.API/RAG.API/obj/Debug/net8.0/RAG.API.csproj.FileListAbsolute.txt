@@ -1,0 +1,9 @@
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.csproj.AssemblyReference.cache
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.AssemblyInfoInputs.cache
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.AssemblyInfo.cs
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.csproj.CoreCompileInputs.cache
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.MvcApplicationPartsAssemblyInfo.cs
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.MvcApplicationPartsAssemblyInfo.cache
+E:\RAG AI App on Azure\RAGApplication\RAG.API\RAG.API\obj\Debug\net8.0\RAG.API.sourcelink.json
